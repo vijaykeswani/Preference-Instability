@@ -1,4 +1,4 @@
-## Moral Preference Stability Analysis
+## Moral Preference Instability Quantification and Its Impact on AI Alignment
 
 This repository contains data collected and analysis conducted for the purpose of investigating *moral preference instability*.
 
