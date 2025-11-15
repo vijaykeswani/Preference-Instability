@@ -7,7 +7,7 @@ The notebook `main_analysis.ipynb` contains details of the analysis of the respo
 
 ### Reference
 
-[Moral Change or Noise? On Problems of Aligning AI With Temporally UnstableHuman Feedback] <br>
+[Moral Change or Noise? On Problems of Aligning AI With Temporally Unstable Human Feedback](https://arxiv.org/abs/2511.10032) <br>
 Vijay Keswani, Cyrus Cousins, Breanna Nguyen, Vincent Conitzer, Hoda Heidari, Jana Schaich Borg, Walter Sinnott-Armstrong<br>
 *AAAI Alignment Track*, 2026
 
